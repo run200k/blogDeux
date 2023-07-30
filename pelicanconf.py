@@ -8,6 +8,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
+THEME = '/home/julian/Documents/pelicanthemes/pelican-themes/monospace'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
